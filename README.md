@@ -59,7 +59,7 @@ The local router's interface is configured with the following ip/subnet mask : *
 
 The external router's interface is configured with the following ip/subnet mask : **192.168.2.2** / **255.255.255.0**. 
 
-Again I made sure the interfaces are up and running.
+Again I made sure the ports are ON.
 
 The routers can now ping each other. But a this point the PCs can't communicate with the webserver or even the external router so adding static routes is necessary.
 
@@ -77,7 +77,7 @@ The DNS server will be linked through its **FastEthernet0** port to the switch's
 
 It is configured with the following ip/subnet mask : **192.168.1.254** / **255.255.255.0**. It's default gateway is **192.168.1.1**. 
 
-Again I made sure the interfaces are up and running.
+Again I made sure the ports are ON.
 
 The DNS server can now be reached by other end devices.
 
