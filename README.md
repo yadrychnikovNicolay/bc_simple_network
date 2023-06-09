@@ -87,4 +87,4 @@ Then I've configured all the end devices with **192.168.1.254** as the DNS serve
 
 **That's it ! *www.helloworld.com* can now be reached through the browser of the PCs.**
 
-######README template *inspired* by [Alexandre Ntougas'](https://github.com/alexandrentougas/)######
+###### README template *inspired* by [Alexandre Ntougas'](https://github.com/alexandrentougas/)
